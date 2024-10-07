@@ -1,6 +1,6 @@
 ### [zast.ai – AI Vulnerability Researcher](http://zast.ai)
 
-**Zero-day detection with zero false positives, no manual verification needed.**
+**Zero-day detection with zero false positives, with zero verification needed.**
 
 **The Need**: Globally [27.7 million programmers](https://www.google.com/search?q=how+many+programmers+are+there+in+the+world) create 2.7-4 billion lines of code daily.[^1] Even at an extremely conservative vulnerability rate[^2], 30k+ new vulnerabilities emerge every day. That's more than [the 29k CVEs](https://cve.mitre.org/)  published in the entire year of 2023.
 
