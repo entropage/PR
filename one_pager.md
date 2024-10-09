@@ -12,7 +12,7 @@
 
 **Progress**: Currently detects Java-based web vulnerabilities, with expansion to more languages soon. Each vulnerability includes a verified POC.
 
-**Success Story**: Found 29 verified vulnerabilities overnight in a mid-size SaaS Java app. The customer immediately committed to a long-term contract.
+**Success Story**: Found 29 verified vulnerabilities overnight in a mid-size SaaS Java app (~1 million lines of java code). The customer immediately committed to a long-term contract.
 
 **How It Works**:
 - **Input**: URL, Java archive, test credentials.
